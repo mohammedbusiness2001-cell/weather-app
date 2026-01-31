@@ -1,18 +1,28 @@
-# Simple Weather App
+Simple Weather App
+About
 
-This is a basic weather application built with React and Vite.
+This is a very small React app made only to learn how fetch works.
 
-## API Key Setup
+## Goal
 
-The OpenWeatherMap API Key is used directly in `App.jsx` for simplicity in this learning project.
+Learn how to use fetch
 
-**API Key:** `e9780fe5a5c827cc0d83803e8903b73a`
+Get data from an API
 
-**Where it is used:**
-Inside `src/App.jsx` in the `fetchWeather` function:
-```javascript
-const API_KEY = 'e9780fe5a5c827cc0d83803e8903b73a';
-```
+Show data in React
+
+## How it works
+
+Type a city name
+
+Click the button
+
+fetch sends a request
+
+Data comes back
+
+Data is shown on the screen
+
 
 ## How to Run
 
